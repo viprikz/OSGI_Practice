@@ -1,1 +1,0 @@
-# OSGI_Practice
